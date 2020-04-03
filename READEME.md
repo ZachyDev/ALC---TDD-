@@ -1,0 +1,1 @@
+This repository walks you through the phases/cycles of Test Driven Development(TDD).It follows the Red-Green-Refactor approach.
